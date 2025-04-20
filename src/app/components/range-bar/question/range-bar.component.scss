@@ -1,0 +1,37 @@
+.range {
+    width: 33.4%;
+    height: 16px;
+    &.low {
+        background: #FF7777;
+        border-top-left-radius: 6px;
+        border-bottom-left-radius: 6px;
+    };
+    &.medium {
+        background: #FFFCAC;
+    };
+    &.high {
+        background: #94FF98;
+        border-top-right-radius: 6px;
+        border-bottom-right-radius: 6px;
+    };
+}
+
+.conclusion {
+    position: relative;
+}
+
+.conclusion ion-col {
+    font-size: 0.8rem;
+    margin-left: 1rem;
+}
+
+.conclusion::before {
+    content: '';
+    display: block;
+    width: 4px;
+    height: 100%;
+    background: #E7E7E7;
+    border-radius: 12px;
+    margin-right: 0.5rem;
+    position: absolute;
+}

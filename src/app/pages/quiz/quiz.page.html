@@ -1,0 +1,17 @@
+<app-header [displayTimer]="true"></app-header>
+
+<ion-content [fullscreen]="true">
+  <ion-list>
+    <app-question 
+      *ngFor="let question of currentQuestions" 
+      [data]="question" 
+      [checkedValue]="checkedQuestions[question.id]?.likert" 
+      (onOptionChangedEvent)="onOptionChangedEvent($event)">
+    </app-question>
+  </ion-list>
+
+  <ion-item lines="none">
+    <ion-icon (click)="next()" name="caret-forward" class="ion-justify-content-right" slot="end"></ion-icon>
+    <ion-icon (click)="back()" name="caret-back" class="ion-justify-content-left" slot="start" *ngIf="currentView > 0"></ion-icon>
+  </ion-item>
+</ion-content>

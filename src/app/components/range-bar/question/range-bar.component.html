@@ -1,0 +1,21 @@
+<ion-grid style="position: relative;" class="ion-no-padding">
+    <ion-row class="mb-1">
+        <ion-col>
+            <ion-label>{{ factor }}</ion-label>
+        </ion-col>
+    </ion-row>
+    <ion-row>
+        <ion-col class="range low"></ion-col>
+        <ion-col class="range medium"></ion-col>
+        <ion-col class="range high"></ion-col>
+    </ion-row>
+    <ion-label [style.marginLeft]="range">
+        <ion-label>|</ion-label>
+        <ion-label style="font-size: 8px;">{{ rangeText }}</ion-label>
+    </ion-label>
+    <ion-row class="conclusion ion-margin-bottom ion-margin-top">
+        <ion-col>
+            <ion-label>{{ conclusion }}</ion-label>
+        </ion-col>
+    </ion-row>
+</ion-grid>

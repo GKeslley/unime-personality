@@ -1,0 +1,7 @@
+{
+  "name": "SchutterQuiz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

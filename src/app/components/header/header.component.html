@@ -1,0 +1,14 @@
+<ion-header [translucent]="true" mode="ios">
+    <ion-toolbar>
+        <ion-grid>
+            <ion-row class="ion-align-items-center">
+                <ion-col class="ion-no-padding">
+                    <ion-icon src="../../../assets/icon/icon.svg" size="large"></ion-icon>
+                </ion-col>
+                <ion-col class="ion-no-padding" *ngIf="displayTimer">
+                    <app-timer></app-timer>
+                </ion-col>
+            </ion-row>
+        </ion-grid>
+    </ion-toolbar>
+</ion-header>

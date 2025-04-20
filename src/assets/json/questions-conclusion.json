@@ -1,0 +1,22 @@
+{
+  "Avaliação das Emoções Próprias": {
+    "Baixo": "Com base nas suas respostas, você apresenta um nível baixo de percepção das suas próprias emoções. Isso pode indicar dificuldades em identificar, compreender e nomear o que sente, o que pode afetar negativamente sua capacidade de tomar decisões emocionais conscientes, além de impactar seu bem-estar psicológico. Investir no desenvolvimento do autoconhecimento pode ajudá-lo(a) a fortalecer sua inteligência emocional e sua estabilidade emocional.",
+    "Médio": "Você demonstra um nível intermediário de percepção emocional interna. Isso significa que, em muitas situações, você é capaz de identificar o que sente, mas pode haver momentos em que as emoções são confusas ou difíceis de interpretar. Fortalecer o hábito de refletir sobre suas emoções e entender seus gatilhos emocionais pode ajudá-lo(a) a alcançar um maior domínio emocional e autoconhecimento.",
+    "Alto": "Você apresenta um nível elevado de consciência emocional sobre si mesmo(a), o que indica que você consegue identificar com clareza suas emoções, compreender seus estados emocionais e os efeitos que eles causam no seu comportamento. Essa habilidade é fundamental para o autoconhecimento, a tomada de decisões assertivas e o equilíbrio emocional."
+  },
+  "Avaliação das Emoções dos Outros": {
+    "Baixo": "Sua pontuação indica dificuldades em perceber e interpretar as emoções de outras pessoas. Isso pode afetar negativamente sua empatia, suas relações interpessoais e sua capacidade de compreender as necessidades emocionais dos outros. Trabalhar essa habilidade pode melhorar significativamente sua comunicação, sua convivência e sua sensibilidade social.",
+    "Médio": "Você demonstra uma sensibilidade emocional moderada em relação aos outros. Consegue perceber emoções alheias em algumas situações, mas pode ter dificuldades em captar sinais sutis ou entender emoções mais complexas. Desenvolver a escuta ativa e a observação empática pode ajudá-lo(a) a aprimorar sua conexão com os outros e sua inteligência social.",
+    "Alto": "Você possui uma forte capacidade de perceber, compreender e interpretar com precisão as emoções das pessoas ao seu redor. Essa habilidade é essencial para a empatia, a colaboração e o fortalecimento de vínculos interpessoais saudáveis. Sua sensibilidade emocional contribui diretamente para relacionamentos mais profundos e respeitosos."
+  },
+  "Regulação Emocional": {
+    "Baixo": "Sua pontuação sugere que você enfrenta desafios para lidar e gerenciar adequadamente suas emoções, especialmente em momentos de estresse, frustração ou conflito. Isso pode levar a reações impulsivas, dificuldades de adaptação emocional e sentimentos persistentes de descontrole. Desenvolver estratégias de autorregulação, como técnicas de respiração, mindfulness ou terapia, pode contribuir para uma vida emocional mais estável e saudável.",
+    "Médio": "Você demonstra uma capacidade razoável de controlar suas emoções, sendo capaz de manter o equilíbrio em algumas situações, mas podendo se sentir sobrecarregado(a) emocionalmente em momentos mais intensos. Aprimorar estratégias de regulação emocional pode ajudá-lo(a) a lidar com desafios de forma mais consciente e equilibrada.",
+    "Alto": "Você apresenta uma excelente habilidade de regulação emocional, o que significa que consegue manter o controle emocional em diversas situações, adaptando-se bem a contextos desafiadores. Essa habilidade contribui para o seu bem-estar, sua resiliência e para relações interpessoais saudáveis e equilibradas."
+  },
+  "Uso das Emoções em Tarefas": {
+    "Baixo": "Seus resultados indicam dificuldade em usar as emoções como fonte de motivação e foco. Isso pode se refletir em baixa energia, procrastinação ou falta de engajamento em tarefas. Trabalhar com metas claras e desenvolver conexões emocionais com seus objetivos pode ser útil.",
+    "Médio": "Você apresenta uma capacidade intermediária de utilizar emoções como impulso para agir e atingir metas. Em algumas situações você consegue se motivar, mas em outras pode sentir desânimo. Fortalecer esse fator pode aumentar sua produtividade e realização pessoal.",
+    "Alto": "Você demonstra uma grande habilidade em transformar emoções em ação e motivação. Isso sugere foco, persistência e capacidade de manter-se engajado mesmo diante de desafios emocionais."
+  }
+}
